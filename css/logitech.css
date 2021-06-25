@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/3328615.png");
+    background-size:cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+h1{
+    display: inline;
+
+}
+.footer{
+    display: flex;
+
+width: 100%;
+align-items: flex-end;
+justify-content: center;
+padding: 10px;
+align-self: flex-end;
+margin-top: 165px;
+ 
+}

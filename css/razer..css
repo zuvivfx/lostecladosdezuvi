@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://preview.redd.it/f90znvrhs3861.jpg?width=1600&format=pjpg&auto=webp&s=350312857104054858f254fbc7b52fc57404a4d3");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    display: inline;
+
+}
+.footer{
+    display: flex;
+
+width: 100%;
+align-items: flex-end;
+justify-content: center;
+padding: 10px;
+align-self: flex-end;
+margin-top: 165px;
+ 
+}
